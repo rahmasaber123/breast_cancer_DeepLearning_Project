@@ -26,14 +26,14 @@ It demonstrates a full machine learning pipeline — from **data loading**, **ex
 - Scikit-learn  
 - TensorFlow / Keras  
 
----
+```
 📦 breast-cancer-prediction
 ├── breast_cancer_prediction.py # Main Python script
 ├── notebook.ipynb # Original Jupyter Notebook (optional)
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies file (optional)
 
----
+```
 
 ##  Installation  
 
