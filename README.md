@@ -19,7 +19,7 @@ It demonstrates a full machine learning pipeline — from **data loading**, **ex
 
 ##  Technologies Used  
 
-- Python 🐍  
+- Python   
 - Pandas  
 - NumPy  
 - Matplotlib & Seaborn  
@@ -27,7 +27,7 @@ It demonstrates a full machine learning pipeline — from **data loading**, **ex
 - TensorFlow / Keras  
 
 ```
-📦 breast-cancer-prediction
+ breast-cancer-prediction
 ├── breast_cancer_prediction.py # Main Python script
 ├── notebook.ipynb # Original Jupyter Notebook (optional)
 ├── README.md # Project documentation
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 
 
-## 🧬 How to Run
+##  How to Run
 
 Run the Python file directly:
 
@@ -66,5 +66,5 @@ python breast_cancer_prediction.py
 ## Author
  Rahma Saber Abbas
 
-## 📂 Project Structure  
+
 
